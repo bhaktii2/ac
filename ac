@@ -1,0 +1,3 @@
+plt.hist(mtcars['mpg'],bins=10)
+plt.hist(mtcars['wt'],bins=10)
+plt.show()
